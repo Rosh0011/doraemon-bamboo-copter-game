@@ -6,4 +6,7 @@ Tech Stack:
 HTML
 CSS
 JavaScript
+
 Canvas API
+
+Game deployed using GitHub Pages
